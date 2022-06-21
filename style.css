@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+body{
+    display: block;
+    margin: auto;
+    max-width: 1440px;
+}
+html{
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+.img_group{
+    display: flex;
+    gap: 40px;
+margin-top: 80px;
+    justify-content: center;
+}
+.btn_group{
+    display: flex;
+    gap: 30px;
+margin-top: 80px;
+    justify-content: center;
+}
+.asab{
+    /* border: 2px solid gold; */
+    background: rgb(16, 16, 16);
+    margin: 70px 280px;
+}
+.asab .value{
+    
+}
+.btn{
+    background: none;
+}
